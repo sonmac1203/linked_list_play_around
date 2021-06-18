@@ -1,0 +1,2 @@
+# Linked list project
+This project sees the implementation of linked list in C++.<br/>Many linked list features are added through functions allowing user to play around with the list.<br/>Some features are list creation, node addition, node removal, etc.<br/>Details are presented in the List.hpp file
